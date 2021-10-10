@@ -6,15 +6,15 @@
 
 ### Linguagem: Python :snake:
 
-#### Oque faz:
+#### O que faz?
 
 Calcula o **IMC**(Índice de massa corporal) com base na **altura** e no **peso** e  mostra seu **status atual**.
 
-#### Formula usada para calcular:
+#### Qual a formula usada para calcular?
 
 Divide o **peso** do paciente pela **altura elevada ao quadrado**
 
-#### Status:
+#### Como funciona os status?
 
 Status baseado nessa tabela
 
